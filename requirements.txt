@@ -7,4 +7,8 @@ catboost
 xgboost
 Flask
 tensorflow
+streamlit
+keras
+pillow
+tempfile
 #-e .
